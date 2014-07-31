@@ -1,0 +1,33 @@
+{
+  "name": "grunt-js2cleanly",
+  "description": "js2cleanly for Grunt",
+  "version": "0.1.4",
+  "homepage": "https://github.com/ifedu/grunt-js2cleanly",
+  "author": {
+    "name": "Eduardo P�rez-Bermejo",
+    "email": "ifedu@outlook.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://ifedu@github.com/ifedu/grunt-js2cleanly.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ifedu/grunt-js2cleanly/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/ifedu/grunt-js2cleanly/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "peerDependencies": {
+    "js2cleanly": "*",
+    "grunt": "~0.4.5"
+  },
+  "keywords": [
+    "gruntplugin"
+  ]
+}
